@@ -23,7 +23,9 @@ python3 main.py --start 100 215 --goal 100 100 --visualize True
 <img src="results/example_explr.gif"/>
 </p>
 
+
 ### Final Path from [6,6] to [390,245]
 <p align="center">
 <img src="results/final_path.png"/>
 </p>
+
