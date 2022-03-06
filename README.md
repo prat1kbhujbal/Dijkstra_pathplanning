@@ -9,8 +9,10 @@ The algorithm finds the shortest path between each node in a graph for a specifi
 - matplotlib
 
 ## Steps
-- Run the following command
+- Run the following commands
 ``` bash
+git clone https://github.com/Prat33k-dev/Dijkstra-algorithm.git
+cd Dijkstra-algorithm/code
 python3 main.py --start 100 215 --goal 100 100 --visualize True
 ```
 ### Parameters
@@ -24,7 +26,7 @@ python3 main.py --start 100 215 --goal 100 100 --visualize True
 </p>
 
 
-### Final Path from [6,6] to [390,245]
+### Final Backtrack Path example
 <p align="center">
 <img src="results/final_path.png"/>
 </p>

@@ -44,7 +44,9 @@ def main():
     map = pb.zeros((map_grid[0], map_grid[1]), pb.uint8)
     plot_grid(start_node, goal_node, map_grid)
     map = obstacle(map)
+    # Check for valid goal and start position
     if solvable(start_node, goal_node, map):
+        # Perfrom Dijkstra
         dijkstra(start_node, goal_node, map, explr_animation, show_animation)
 
 
