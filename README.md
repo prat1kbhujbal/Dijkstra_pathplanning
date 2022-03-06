@@ -22,11 +22,11 @@ python3 main.py --start 100 215 --goal 100 180 --visualize True
 - animate_explr - Shows visualization while exploring. *Default :- False*   
 
 <p align="center">
-<img src="results/example_explr.gif"/>
+<img src="result/example_explr.gif"/>
 </p>
 
 ### Final Backtrack Path example
 <p align="center">
-<img src="results/final_path.png"/>
+<img src="result/final_path.png"/>
 </p>
 
