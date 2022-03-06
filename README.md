@@ -25,7 +25,6 @@ python3 main.py --start 100 215 --goal 100 100 --visualize True
 <img src="results/example_explr.gif"/>
 </p>
 
-
 ### Final Backtrack Path example
 <p align="center">
 <img src="results/final_path.png"/>
