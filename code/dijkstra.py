@@ -61,7 +61,7 @@ def planning(node, map):
 
 
 def dijkstra(start, goal, map, expl_animation, show_animation):
-    '''dijkstra algorithm'''
+    '''Dijkstra algorithm'''
     distance = {}
     pque = PriorityQueue()
     visited_nodes = []
