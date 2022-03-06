@@ -13,11 +13,11 @@ The algorithm finds the shortest path between each node in a graph for a specifi
 ``` bash
 git clone https://github.com/Prat33k-dev/Dijkstra-algorithm.git
 cd Dijkstra-algorithm/code
-python3 main.py --start 100 215 --goal 100 100 --visualize True
+python3 main.py --start 100 215 --goal 100 180 --visualize True
 ```
 ### Parameters
 - start -  Start position of the robot. *Default :- [100 215]*
-- goal - Goal position of the robot. *Default :- [100 100]*
+- goal - Goal position of the robot. *Default :- [100 180]*
 - visualize - Shows visualization after goal reached. *Default :- True* 
 - animate_explr - Shows visualization while exploring. *Default :- False*   
 
